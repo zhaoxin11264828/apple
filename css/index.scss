@@ -708,7 +708,7 @@
 /*meida*/
 .media{
   max-width: 2560px;
-  margin-top: 1300px;
+  /*margin-top: 1300px;*/
   &::after{
     @extend %clear;
   }
@@ -724,7 +724,7 @@
 }
 @media screen and (max-width:$small) {
   .media{
-    margin-top: 780px;
+    /*margin-top: 780px;*/
   }
 }
 .media{
